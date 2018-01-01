@@ -8,9 +8,8 @@ export const cssHome = StyleSheet.create({
         backgroundColor: '#F5FCFF',
     },
     imgReactLog: {
-        flex: 1,
-        width: null,
-        height: null,
+        width: 50,
+        height: 50,
         resizeMode: 'cover'
     }
 })
